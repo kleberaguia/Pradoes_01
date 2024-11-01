@@ -1,0 +1,15 @@
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\bin\Debug\net8.0\CrossCutting.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\bin\Debug\net8.0\CrossCutting.pdb
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\AbstractFactory\obj\Debug\net8.0\Abstract.2246C68C.Up2Date

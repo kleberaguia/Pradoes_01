@@ -1,0 +1,12 @@
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\CrossCutting.csproj.AssemblyReference.cache
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\CrossCutting.AssemblyInfoInputs.cache
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\CrossCutting.AssemblyInfo.cs
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\CrossCutting.csproj.CoreCompileInputs.cache
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\bin\Debug\net8.0\CrossCutting.deps.json
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\bin\Debug\net8.0\CrossCutting.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\bin\Debug\net8.0\CrossCutting.pdb
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\CrossCutting.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\refint\CrossCutting.dll
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\CrossCutting.pdb
+D:\Estudo_JavaScript\ApiUnit\Teste2Unit\FactoryMethod_SEM_Injecao\CrossCutting\obj\Debug\net8.0\ref\CrossCutting.dll
